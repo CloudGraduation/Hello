@@ -1,4 +1,4 @@
-Hello
+CIC-Canadian International Collega 
 =====
 
-My first repository
+My Graduation Project
